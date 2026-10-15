@@ -1,6 +1,6 @@
 # Mariel Talisaysay — Portfolio
 
-A responsive, static portfolio built with React, Vite, and Tailwind CSS. No backend or database is required.
+A responsive, static portfolio built with React, Vite, and Tailwind CSS. 
 
 ## Run locally
 
